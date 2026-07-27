@@ -152,4 +152,4 @@ This project is licensed under the MIT License.
 
 **Teja**
 
-Computer Science Engineering Student | Python Developer | AI & Full Stack Enthusiast
+Computer Science Engineering Student | AI & Full Stack Enthusiast
